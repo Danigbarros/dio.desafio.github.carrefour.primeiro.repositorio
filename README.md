@@ -1,6 +1,6 @@
-# dio.desafio.github.carrefour.primeiro.repositorio
-Desafio de  projet git/github - dio
 
+# Desafio de  projeto git/github 
+Repositório criado para desafio carrefour
 ## Links úteis
 [sintaxe basica markdown (https://www.markdownguide.org/basic-syntax/)
 
